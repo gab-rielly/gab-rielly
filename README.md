@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-<td width="60%" valign="center">
+<td width="58%" valign="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=34&duration=4000&pause=300&color=A7A459&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Hello+hello;I'm+a+Computer+Science+student+%3A%29" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=28&duration=4000&pause=300&color=A7A459&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=420&height=90&lines=Hello+hello;I'm+a+Computer+Science+student+%3A%29" width="100%" />
 
 <pre>
 💻 AI • Computer Vision • Python
@@ -15,9 +15,9 @@
 
 </td>
 
-<td width="40%" align="right">
+<td width="42%" align="right">
 
-<img src="./animesher.com_gif-studio-ghibli-whisper-of-the-heart-1987705.gif" width="90%" />
+<img src="./animesher.com_gif-studio-ghibli-whisper-of-the-heart-1987705.gif" width="85%" />
 
 </td>
 </tr>
