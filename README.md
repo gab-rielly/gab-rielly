@@ -4,7 +4,7 @@
 <tr>
 <td width="58%" valign="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=4000&pause=300&color=F2C6DE&center=false&vCenter=true&repeat=false&random=false&width=500&height=50&lines=Hello+hello+I'm+a+Computer+Science+student+%3A%29" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=4000&pause=300&color=AA336A&center=false&vCenter=true&repeat=false&random=false&width=500&height=50&lines=Hello+hello+I'm+a+Computer+Science+student+%3A%29" />
 
 <pre>
 💻 AI • Computer Vision • Python
