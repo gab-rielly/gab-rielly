@@ -10,7 +10,7 @@
 💻 AI • Computer Vision • Python
 📖 Data Structures • Machine Learning
 🎮 Games • Anime • Ghibli • Music • Art
-☕ Coffee • Red Velvet • Late night coding haha
+☕ Coffee with milk • Red Velvet • Late night coding :D
 </pre>
 
 </td>
